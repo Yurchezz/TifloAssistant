@@ -1,0 +1,4 @@
+#Wed Nov 20 03:36:37 EET 2019
+base.0=D\:\\Projects\\TifloAssistant\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
