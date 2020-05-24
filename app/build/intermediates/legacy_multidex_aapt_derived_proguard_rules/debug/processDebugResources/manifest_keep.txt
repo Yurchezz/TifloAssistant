@@ -1,0 +1,4 @@
+# Referenced at D:\NULP\TifloAssistant\05.05.2020\android-ui\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:16
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\NULP\TifloAssistant\05.05.2020\android-ui\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:16
+-keep class androidx.multidex.MultiDexApplication { <init>(); }

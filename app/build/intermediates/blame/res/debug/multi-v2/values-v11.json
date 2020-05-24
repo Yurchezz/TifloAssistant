@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\NULP\\TifloAssistant\\05.05.2020\\android-ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\NULP\\TifloAssistant\\05.05.2020\\android-ui\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "215"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "209"
+                    }
+                }
+            ]
+        }
+    ]
+}

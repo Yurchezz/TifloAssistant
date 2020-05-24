@@ -38,7 +38,7 @@ public class Recorded   {
   @SerializedName("movieName")
   private String movieName = null;
 
-  @SerializedName("recognized")
+  @SerializedName("isRecognized")
   private Boolean recognized = null;
 
   @SerializedName("time")
@@ -69,7 +69,7 @@ public class Recorded   {
 
    /**
    * Get recognized
-   * @return recognized
+   * @return isRecognized
   **/
   @ApiModelProperty(example = "null", value = "")
   public Boolean getRecognized() {
